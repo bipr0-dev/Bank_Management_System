@@ -1,0 +1,14 @@
+# Compiled files
+*.class
+*.jar
+
+# Build folders
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+
+# IntelliJ
+.idea/
+*.iml
